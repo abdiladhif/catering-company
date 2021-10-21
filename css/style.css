@@ -27,3 +27,6 @@ h2{
   margin-top: 15px;
   border-radius: 50%;
 }
+.panel-body ul{
+  color: #fff;
+}
