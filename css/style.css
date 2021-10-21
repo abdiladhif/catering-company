@@ -1,9 +1,12 @@
-/* body{
+body{
   background-color: gray;
-} */
+}
 
 .jumbotron h1{
   color: blue;
+}
+.event{
+  background-color: white;
 }
 .prag img{
   float: right;
@@ -20,10 +23,23 @@ h2{
   font-size: 40px;
   color:
 }
+.icons h2{
+  color: white;
+  background-color: purple;
+}
 
 .customer img{
   width:60%;
   margin-left: 20px;
   margin-top: 15px;
   border-radius: 50%;
+}
+
+.panel-body p{
+  color: blue;
+}
+.panel-footer p{
+  font-size: 20px;
+  text-align: center;
+  color: #red;
 }
