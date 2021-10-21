@@ -1,10 +1,14 @@
-/* body{
+body{
   background-color: gray;
-} */
+}
 
 .jumbotron h1{
   color: blue;
 }
+.event{
+  background-color: white;
+}
+
 .prag img{
   float: right;
 }
@@ -15,18 +19,33 @@
   width: 100%;
   margin: auto;
 }
+.panel-body .new-prag p{
+  color: black;
+}
 h2{
   text-align: center;
   font-size: 40px;
-  color:
+}
+h3{
+  text-align: center;
+  color: white;
 }
 
 .customer img{
   width:60%;
-  margin-left: 20px;
+  margin-left: 70px;
   margin-top: 15px;
   border-radius: 50%;
 }
-.panel-body ul{
-  color: #fff;
+.panel {
+  background: purple;
+}
+.panel-body p {
+  color: white;
+  text-align: center;
+}
+.panel-footer p{
+  text-align: center;
+  color: blue;
+  font-size: 20px;
 }
